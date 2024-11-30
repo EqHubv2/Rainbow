@@ -1,5 +1,5 @@
 while wait() do
- 
+ local Background = script.Parent
  Background.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 	wait(0.1)
 	Background.BackgroundColor3 = Color3.fromRGB(255, 64, 0)
